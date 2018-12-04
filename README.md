@@ -2,15 +2,13 @@
 
 ### Road Map
 
-![](https://az796311.vo.msecnd.net/userupload/48d4e6fde27c421a8b1f6749e62b0c93.jpg)
-
-
+![](http://az796311.vo.msecnd.net/userupload/48d4e6fde27c421a8b1f6749e62b0c93.jpg)
 
 > https://www.accupass.com/event/1810260306513140042440
 
 <br />
 
-## Day 01  Basic Python
+## Day 01  Basic Python
 
 I use Jupyter lab instead of Jupyter Notebook.
 
@@ -48,15 +46,13 @@ Pandas的功能強大而且具高效的數據分析環境，Pandas的數據物�
 
    提供了複雜的索引功能(indexing)，以便輕鬆重塑(reshape)，切片和切塊(slice and dice)，執行聚合(aggregations)以及選擇數據子集合(subset)
 
-
-
 For more info please view the `Day02 folder`
 
 <br />
 
-## Day 06 EDA - Visualization - Matplotlib,  Seaborn & Pyplot
+## Day 06 EDA - Visualization - Matplotlib,  Seaborn & Pyplot
 
-## Day N Build Model - Scikit-learn
+## Day N Build Model - Scikit-learn
 
 Python程式設計的首要機器學習軟件包，主要包含了以下模型：
 
@@ -70,13 +66,11 @@ Python程式設計的首要機器學習軟件包，主要包含了以下模型�
 
 * 前置處理(preprocessing)：特徵提取(feature extraction)，正規化(normalization)等
 
-
-
 <br />
 
 ## Day N Decision Tree
 
-#### ID3 algorithm
+#### ID3 algorithm
 
 Tree Node挑出Information Gain最大的
 
@@ -95,7 +89,3 @@ Gain(X)=I(n,n1)-E(X)
 ## Day N RNN
 
 ## Day N LSTM
-
-
-
-
