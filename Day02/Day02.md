@@ -1,4 +1,4 @@
-# Day02 Data Preprocessing - NumPy & Pandas
+# Day02 Data Preprocessing - NumPy & Pandas
 
 #### Installation
 
@@ -22,3 +22,7 @@ conda install pandas
 import pandas as pd
 import numpy as np
 ```
+
+詳細numpy, pandas操作請見Day02.ipynb
+
+

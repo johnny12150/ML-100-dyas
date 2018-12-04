@@ -2,7 +2,7 @@
 
 ### Road Map
 
-![](http://az796311.vo.msecnd.net/userupload/48d4e6fde27c421a8b1f6749e62b0c93.jpg)
+![road map of learning ML](road_map.jpg)
 
 > https://www.accupass.com/event/1810260306513140042440
 
