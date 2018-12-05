@@ -50,6 +50,12 @@ For more info please view the `Day02 folder`
 
 <br />
 
+## Day 03 Data Preprocessing - Handle Missing Data
+
+
+
+<br />
+
 ## Day 06 EDA - Visualization - Matplotlib,  Seaborn & Pyplot
 
 ## Day N Build Model - Scikit-learn
@@ -67,6 +73,8 @@ Python程式設計的首要機器學習軟件包，主要包含了以下模型�
 * 前置處理(preprocessing)：特徵提取(feature extraction)，正規化(normalization)等
 
 <br />
+
+## Day N Linear Regression
 
 ## Day N Decision Tree
 
@@ -89,3 +97,9 @@ Gain(X)=I(n,n1)-E(X)
 ## Day N RNN
 
 ## Day N LSTM
+
+## Day N GAN
+
+## Day N RL - Q Learning
+
+## Day N RL - Deep Q Learning
