@@ -56,6 +56,17 @@ For more info please view the `Day02 folder`
 
 <br />
 
+## Day 03 Data Preprocessing - Encoding Categorical Data
+
+* sklearn - LabelEncoder, OneHotEncoder
+  LabelEncoder: 將字串以離散數字表示
+  OneHotEncoder: 將LabelEncoder轉出的數字轉成one-hot編碼
+
+* numpy - get_dummies() 
+  one-hot 編碼
+
+<br />
+
 ## Day 06 EDA - Visualization - Matplotlib,  Seaborn & Pyplot
 
 ## Day N Build Model - Scikit-learn
