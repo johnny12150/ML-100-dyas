@@ -52,22 +52,38 @@ For more info please view the `Day02 folder`
 
 ## Day 03 Data Preprocessing - Handle Missing Data
 
-
-
 <br />
 
-## Day 03 Data Preprocessing - Encoding Categorical Data
+## Day 04 Data Preprocessing - Encoding Categorical Data
 
 * sklearn - LabelEncoder, OneHotEncoder
   LabelEncoder: 將字串以離散數字表示
-  OneHotEncoder: 將LabelEncoder轉出的數字轉成one-hot編碼
+  OneHotEncoder: 將LabelEncoder轉出的數字轉成one-hot編碼(避免電腦誤會Label Encode後的數字大小是有意義的)
 
 * numpy - get_dummies() 
   one-hot 編碼
 
 <br />
 
-## Day 06 EDA - Visualization - Matplotlib,  Seaborn & Pyplot
+## Day 05 Data Preprocessing -  Split data & Cross Validation
+
+* KFlod: (pending)
+
+<br />
+
+## Day 06 Data Preprocessing - Regularization
+
+* Min-Max-Scaler: 
+
+<br />
+
+## Day 07 EDA - Visualization - Matplotlib,  Seaborn & Pyplot
+
+<br />
+
+## Day 08 Save Python Object - Encoder & Normalizer
+
+<br />
 
 ## Day N Build Model - Scikit-learn
 
