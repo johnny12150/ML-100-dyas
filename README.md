@@ -81,7 +81,15 @@ For more info please view the `Day02 folder`
 
 <br />
 
-## Day 08 Save Python Object - Encoder & Normalizer
+## Day 08 Save Python Object - Encoder & Scaler
+
+以pickle/ pkl格式儲存，並以下列方式讀取
+
+* pickle:
+
+* joblib:
+
+* cpikle
 
 <br />
 
