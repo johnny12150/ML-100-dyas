@@ -74,6 +74,7 @@ For more info please view the `Day02 folder`
 ## Day 06 Data Preprocessing - Regularization
 
 * Min-Max-Scaler: 
+* StandardScaler: 
 
 <br />
 
@@ -81,15 +82,15 @@ For more info please view the `Day02 folder`
 
 <br />
 
-## Day 08 Save Python Object - Encoder & Scaler
+## Day 08 Save & Load Python Object - Encoder & Scaler
 
 以pickle/ pkl格式儲存，並以下列方式讀取
 
-* pickle:
+* pickle：
 
-* joblib:
+* joblib ：sklearn的外部模組，使用最為簡單使用且可以快速讀取大型array
 
-* cpikle
+* cpikle：
 
 <br />
 
@@ -111,6 +112,12 @@ Python程式設計的首要機器學習軟件包，主要包含了以下模型�
 
 ## Day N Linear Regression
 
+<br />
+
+## Day N Save & Load Trained Model
+
+<br />
+
 ## Day N Decision Tree
 
 #### ID3 algorithm
@@ -124,6 +131,10 @@ Gain(X)=I(n,n1)-E(X)
 <br />
 
 ## Day N Classification Tree
+
+## Day N MLP
+
+<br />
 
 ## Day N CNN
 
