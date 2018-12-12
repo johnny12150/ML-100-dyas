@@ -94,6 +94,16 @@ For more info please view the `Day02 folder`
 
 <br />
 
+## Day 09 Input Value (for prediction)
+
+* input value while calling the python script：`import sys`
+
+* return JSON：`import json`
+
+  以上都是內建的不須另外安裝
+
+<br />
+
 ## Day N Build Model - Scikit-learn
 
 Python程式設計的首要機器學習軟件包，主要包含了以下模型：
