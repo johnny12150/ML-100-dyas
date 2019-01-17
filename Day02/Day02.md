@@ -29,8 +29,6 @@ import numpy as np
 
 #### GroupBy
 
-
-
 #### Pandas.cut( )
 
 等寬劃分(每個 bin 的值的範圍大小都是一樣的)
