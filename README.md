@@ -152,6 +152,12 @@ Gain(X)=I(n,n1)-E(X)
 
 ## Day N RNN
 
+> 細節可以參考:
+> 
+> https://github.com/johnny12150/ML-100-dyas/blob/master/Day01/Winter-Day05.ipynb
+
+<br />
+
 ## Day N LSTM
 
 ## Day N GAN
