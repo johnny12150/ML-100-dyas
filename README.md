@@ -39,9 +39,11 @@ NumPy是Numerical Python的縮寫，提供了大多數涉及數據科學應用�
 Pandas的功能強大而且具高效的數據分析環境，Pandas的數據物件主要分為DataFrame以及Series
 
 1. DataFrame
+
    有列和行標籤的列表式(tabular)，數據結構就像Excel的工作表格(spreadsheets)與資料庫的table一樣
 
 2. Series
+
    Series則是一維標籤化陣列物件，適合時間序列的數據處理
 
    提供了複雜的索引功能(indexing)，以便輕鬆重塑(reshape)，切片和切塊(slice and dice)，執行聚合(aggregations)以及選擇數據子集合(subset)
@@ -57,10 +59,13 @@ For more info please view the `Day02 folder`
 ## Day 04 Data Preprocessing - Encoding Categorical Data
 
 * sklearn - LabelEncoder, OneHotEncoder
+
   LabelEncoder: 將字串以離散數字表示
+
   OneHotEncoder: 將LabelEncoder轉出的數字轉成one-hot編碼(避免電腦誤會Label Encode後的數字大小是有意義的)
 
 * numpy - get_dummies() 
+
   one-hot 編碼
 
 <br />
@@ -161,6 +166,14 @@ Gain(X)=I(n,n1)-E(X)
 ## Day N LSTM
 
 ## Day N GAN
+
+以MNIST為例
+![](https://camo.githubusercontent.com/912e1ea2c0ed056db1fd96cf45752decb74e6844/68747470733a2f2f646f63732e676f6f676c652e636f6d2f75633f69643d30427934517678416b41694e4363476c345645524d4f55644e543055)
+
+> https://github.com/kroosen/GAN-in-keras-on-mnist
+> https://github.com/Zackory/Keras-MNIST-GAN
+
+<br />
 
 ## Day N RL - Q Learning
 
