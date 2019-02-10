@@ -109,7 +109,7 @@ For more info please view the `Day02 folder`
 
 <br />
 
-## Day N Build Model - Scikit-learn
+## Day 10 Build Model - Scikit-learn
 
 Python程式設計的首要機器學習軟件包，主要包含了以下模型：
 
@@ -125,11 +125,23 @@ Python程式設計的首要機器學習軟件包，主要包含了以下模型�
 
 <br />
 
-## Day N Linear Regression
+## Day 11 Linear Regression
 
 <br />
 
-## Day N Save & Load Trained Model
+## Day 12 Save & Load Trained Model
+
+<br />
+
+## Day 13 Build Model - Tensorflow Basic
+
+<br />
+
+## Day N Build Model - PyTorch
+
+<br />
+
+## Day N Build Model - FastAI
 
 <br />
 
@@ -171,6 +183,7 @@ Gain(X)=I(n,n1)-E(X)
 ![](https://camo.githubusercontent.com/912e1ea2c0ed056db1fd96cf45752decb74e6844/68747470733a2f2f646f63732e676f6f676c652e636f6d2f75633f69643d30427934517678416b41694e4363476c345645524d4f55644e543055)
 
 > https://github.com/kroosen/GAN-in-keras-on-mnist
+> 
 > https://github.com/Zackory/Keras-MNIST-GAN
 
 <br />
